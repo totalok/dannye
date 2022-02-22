@@ -1,0 +1,9 @@
+Recolecting info
+• Gather information from project sponsors and data consumers on their 
+requirements. Learn what their objectives are, what types of tools they want to use 
+to consume the data, required data transformations, and so on.
+• Gather information on the available data sources. This may include what systems 
+store the raw data, what format that data is in, who the system and data owner are, 
+and so on.
+• Determine what types of tools are available and may be best suited for these 
+requirements.
